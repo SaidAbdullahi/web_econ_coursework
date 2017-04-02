@@ -1,6 +1,7 @@
 # web_econ_coursework
 UCL ~ Web Economics 2016/17 Coursework
 
-Our solution to the Web Economics Coursework - by Kamakshi Bansal, James Shields and Said Kassim.
+Solution to the Web Economics Coursework - by Kamakshi Bansal, James Shields and Said Kassim.
 
-We performed our group parts of the coursework in the 'web econ cw group parts' notebook file.
+We performed our group parts of the coursework in the web_econ_group_part.ipynb notebook file.
+In that file we have the basic bidding strategies i.e. constant and random bidding. We also did pCTR estimation and used the pCTRs for the linear bidding strategy as well as various different non linear bidding strategies. The best strategy is used to predict bids on the test set
