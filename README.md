@@ -1,6 +1,4 @@
-# web_econ_coursework
-UCL COMPGW02/M041 Web Economics 2016/17 Coursework
-
+# Group_22_web_economics_2016/17_coursework
 Solution to the Web Economics Coursework - by Kamakshi Bansal, James Shields and Said Kassim.
 
 We performed our group parts of the coursework in the web_econ_group_part.ipynb notebook file.
